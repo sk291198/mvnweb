@@ -4,21 +4,14 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-<<<<<<< HEAD
+
   <groupId>mavenrepo</groupId>
   <artifactId>MavenWebapp</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>MavenWebapp Maven Webapp</name>
-=======
-  <groupId>mavenweb</groupId>
-  <artifactId>MavenWeb</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
 
-  <name>MavenWeb Maven Webapp</name>
->>>>>>> e10048d2baba347e8f1fabc178f38ca6b1618930
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
