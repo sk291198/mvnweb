@@ -31,11 +31,9 @@
   </dependencies>
 
   <build>
-<<<<<<< HEAD
+
     <finalName>MavenWebapp</finalName>
-=======
-    <finalName>MavenWeb</finalName>
->>>>>>> e10048d2baba347e8f1fabc178f38ca6b1618930
+
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
